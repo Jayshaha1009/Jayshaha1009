@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tonystark_42" target="blank"><img src="https://img.shields.io/twitter/follow/tonystark_42?logo=twitter&style=for-the-badge" alt="tonystark_42" /></a> </p>
 
-- 🔭 I’m currently working on **Fullstack developer**
+- 🔭 I’m currently working on **Fullstack development**
 
 - 🌱 I’m currently learning **Java,html,css,javascript,react.js**
 
